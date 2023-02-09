@@ -1,0 +1,6 @@
+[submodule "metaverse"]
+	path = metaverse
+	url = https://github.com/NikhilGarg07/metaverse
+[submodule "server"]
+	path = server
+	url = https://github.com/NikhilGarg07/server
